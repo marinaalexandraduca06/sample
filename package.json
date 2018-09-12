@@ -33,6 +33,7 @@
     "prettier": "^1.9.2"
   },
   "engines": {
-    "node": "4.1.1"
+    "node": "10.x",
+    "npm": "5.x"
   }
 }
