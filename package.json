@@ -2,11 +2,7 @@
   "name": "store-api",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
-    "start": "nodemon ./bin/www",
-    "prod": "node ./bin/www",
-    "lint": "eslint . --fix"
-  },
+  "main": "app.js",
   "dependencies": {
     "bcrypt": "^2.0.1",
     "bluebird": "^3.5.1",
