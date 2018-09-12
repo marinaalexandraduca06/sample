@@ -2,7 +2,7 @@
   "name": "store-api",
   "version": "0.0.0",
   "private": true,
-  "main": "app.js",
+  "main": "bin/www",
   "dependencies": {
     "bcrypt": "^2.0.1",
     "bluebird": "^3.5.1",
